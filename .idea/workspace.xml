@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8da9992-b842-4c33-8745-b5faec39235a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/nchu/feng/project/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nchu/feng/project/temp.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/nchu/feng/project/temp.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -524,11 +523,25 @@
       <option name="project" value="LOCAL" />
       <updated>1529148776867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="回复版11">
+      <created>1529148950893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529148950893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="如果提交的包含空的文件夹，则不能提交，所以建立一个空的文件夹">
+      <created>1529149042519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529149042519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17463000" />
+    <option name="totallyTimeSpent" value="17607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -631,7 +644,8 @@
     </ignored-roots>
     <MESSAGE value="回复版" />
     <MESSAGE value="回复版11" />
-    <option name="LAST_COMMIT_MESSAGE" value="回复版11" />
+    <MESSAGE value="如果提交的包含空的文件夹，则不能提交，所以建立一个空的文件夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="如果提交的包含空的文件夹，则不能提交，所以建立一个空的文件夹" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/web.xml">
@@ -921,7 +935,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/nchu/feng/project/temp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
