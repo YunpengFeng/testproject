@@ -6,31 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8da9992-b842-4c33-8745-b5faec39235a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/setting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/GenSqlMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/HtmlResourceView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/JsonUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/MyInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/Pagination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/PaginationOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/PerecentPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/PicturePath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/ToGridJson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/copyPicture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nchu/feng/utils/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sqlMapperConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e8da9992-b842-4c33-8745-b5faec39235a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="250">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -450,7 +426,7 @@
       <workItem from="1532960548672" duration="4907000" />
       <workItem from="1533355998406" duration="1981000" />
       <workItem from="1533360814741" duration="4337000" />
-      <workItem from="1533393847182" duration="248000" />
+      <workItem from="1533393847182" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="回复版11">
       <created>1529148776867</created>
@@ -515,11 +491,25 @@
       <option name="project" value="LOCAL" />
       <updated>1529832803684</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="测试1111111111">
+      <created>1533394265437</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394265438</updated>
+    </task>
+    <task id="LOCAL-00011" summary="测试">
+      <created>1533394333526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394333526</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45727000" />
+    <option name="totallyTimeSpent" value="46221000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,7 +521,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.11875945" side_tool="true" weight="0.3398693" />
@@ -551,7 +542,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.29411766" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32843137" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.35784313" />
       <window_info content_ui="combo" x="522" y="158" width="321" height="411" id="Project" order="5" visible="true" weight="0.18456884" />
@@ -617,6 +608,7 @@
     <MESSAGE value="回复版11" />
     <MESSAGE value="如果提交的包含空的文件夹，则不能提交，所以建立一个空的文件夹" />
     <MESSAGE value="以建立一个空的文件夹" />
+    <MESSAGE value="测试1111111111" />
     <MESSAGE value="测试" />
     <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
@@ -1011,8 +1003,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="250">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
